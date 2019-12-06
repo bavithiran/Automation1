@@ -1,0 +1,6 @@
+/target/
+*.exe
+*.apk
+*.au3
+lib/*.jar
+*.au3
